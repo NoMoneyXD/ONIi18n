@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. PeterHan.FinishTasks.FinishTasksStrings.DUPLICANTS.CHORES.PRECONDITIONS.CAN_START_NEW_TASK
+msgctxt "PeterHan.FinishTasks.FinishTasksStrings.DUPLICANTS.CHORES.PRECONDITIONS.CAN_START_NEW_TASK"
+msgid "Schedule disallows new tasks"
+msgstr "该日程不允许新任务生成"
+
+#. PeterHan.FinishTasks.FinishTasksStrings.UI.SCHEDULEGROUPS.FINISHTASK.NAME
+msgctxt "PeterHan.FinishTasks.FinishTasksStrings.UI.SCHEDULEGROUPS.FINISHTASK.NAME"
+msgid "Finish-Up"
+msgstr "完工"
+
+#. PeterHan.FinishTasks.FinishTasksStrings.UI.SCHEDULEGROUPS.FINISHTASK.DESCRIPTION
+msgctxt "PeterHan.FinishTasks.FinishTasksStrings.UI.SCHEDULEGROUPS.FINISHTASK.DESCRIPTION"
+msgid ""
+"During Finish-Up time shifts my Duplicants will finish their current task if they have one.\n"
+"\n"
+"They will return to the <link=\"HEADQUARTERS\">Printing Pod</link> or <style=\"KKeyword\">Recreation</style> Room once finished."
+msgstr ""
+"在完工时间，如果我的复制人有任务，他们将完成当前的任务。\n"
+"\n"
+"完工后，他们将会回到<link=\"HEADQUARTERS\">打印舱</link>或是<style=\"KKeyword\">娱乐室</style>。"
+
+#. PeterHan.FinishTasks.FinishTasksStrings.UI.SCHEDULEGROUPS.FINISHTASK.NOTIFICATION_TOOLTIP
+msgctxt "PeterHan.FinishTasks.FinishTasksStrings.UI.SCHEDULEGROUPS.FINISHTASK.NOTIFICATION_TOOLTIP"
+msgid "During <style=\"KKeyword\">Finish-Up</style> shifts my Duplicants will finish their current task but will not start new tasks."
+msgstr "在完工时间，复制人将完成当前任务，但不会开始新任务。"
